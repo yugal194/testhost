@@ -6,6 +6,14 @@ div.gantt {
   color: #656565;
 }
 
+.abc{
+  border: #efefef 1px solid;
+  text-align: center;
+  height: 100px;
+  font-size: 50px;
+   background-color: #ff0000;
+}
+
 .gantt table {
   border-collapse: collapse;
 }
