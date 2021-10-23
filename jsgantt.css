@@ -331,7 +331,7 @@ span.gfoldercollapse {
 
 .ggroupblack {
   height: 7px;
-  background: orange;
+  background: #000000;
   margin-top: 2px;
 }
 
@@ -808,7 +808,6 @@ td.gspanning div {
   @page {
     size: ${width}mm ${height}mm;
   }
-
   .gchartcontainer {
     width: ${width}mm;
   }
